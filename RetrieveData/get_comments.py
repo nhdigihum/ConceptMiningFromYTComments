@@ -7,8 +7,8 @@ import json
 # variables
 # ==============================================================
 
-PATH_TO_VIDEO_IDS = '../data/quality_videos_groups/v_ids.txt'
-PATH_TO_RAW_COMMENT_DATA = '../data/comments/00comments.txt'
+PATH_TO_VIDEO_IDS = './data/quality_videos_groups/v_ids.txt'
+PATH_TO_RAW_COMMENT_DATA = './data/comments/00comments.txt'
 
 NUMBER_OF_VIDEOS_PER_REQUEST = 5
 
